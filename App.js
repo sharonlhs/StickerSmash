@@ -86,6 +86,7 @@ export default function App() {
     requestPermission();
   }
 
+  <StatusBar style="light" />
 
 	return (
 		<GestureHandlerRootView style={styles.container}>
